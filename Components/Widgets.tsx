@@ -14,7 +14,8 @@ function Widgets() {
       <TwitterTimelineEmbed
   sourceType="profile"
   screenName="NUFC"
-  options={{height: 1000}}
+  options={{height: 1000,
+  }}
 />
 
 
