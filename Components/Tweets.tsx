@@ -45,19 +45,19 @@ useEffect(() => {
     </div>
   </div>
   <div className='flex justify-between mt-5'>
-    <div className='flex cursor-pointer items-center space-x-3 text-gray-400'>
+    <div className='flex cursor-pointer items-center space-x-3 text-gray-400 hover:text-cyan-300 hover:transition-transform duration-150 ease-out hover:scale-150 hover:bg-gray-100 hover:rounded-full'>
    < ChatAlt2Icon className='h-5 w-5' />
     </div>
-    <div className='flex cursor-pointer items-center space-x-3 text-gray-400'>
+    <div className='flex cursor-pointer items-center space-x-3 text-gray-400  hover:text-green-500 hover:transition-transform duration-150 ease-out hover:scale-150 hover:bg-gray-100 hover:rounded-full'>
     <CachedOutlinedIcon className='h-5 w-5' />
     </div>
-    <div className='flex cursor-pointer items-center space-x-3 text-gray-400'>
+    <div className='flex cursor-pointer items-center space-x-3 text-gray-400  hover:text-red-500 hover:transition-transform duration-150 ease-out hover:scale-150 hover:bg-gray-100 hover:rounded-full'>
     <HeartIcon className='h-5 w-5' />
     </div>
-    <div className='flex cursor-pointer items-center space-x-3 text-gray-400'>
+    <div className='flex cursor-pointer items-center space-x-3 text-gray-400  hover:text-cyan-300 hover:transition-transform duration-150 ease-out hover:scale-150 hover:bg-gray-100 hover:rounded-full'>
     <UploadIcon className='h-5 w-5' />
     </div>
-    <div className='flex cursor-pointer items-center space-x-3 text-gray-400'>
+    <div className='flex cursor-pointer items-center space-x-3 text-gray-400 hover:text-cyan-300 hover:transition-transform duration-150 ease-out hover:scale-150 hover:bg-gray-100 hover:rounded-full'>
     <BarChartOutlinedIcon className='h-5 w-5' />
     </div>
   </div>
